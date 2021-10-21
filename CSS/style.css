@@ -1,0 +1,13 @@
+#siyahi.img{
+    border: 1px solid green;
+
+}
+#komputer-netice{
+    float: left;
+}
+#netice {
+    float: left;
+    width: 300;
+    height: 300;
+    background-color: green;
+}
